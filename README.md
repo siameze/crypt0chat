@@ -10,3 +10,4 @@ $ cd path_to_your_webserver
 $ git clone https://github.com/siameze/crypt0chat.git
 $ blah blah POLLON
 ```
+####<a href="http://imgur.com/GFq7J3W"><img src="http://i.imgur.com/GFq7J3W.png?1" title="Hosted by imgur.com" /></a>
